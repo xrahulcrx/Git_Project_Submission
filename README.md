@@ -51,7 +51,7 @@ Git user details were configured using the following commands:
 
 ```bash
 git config --global user.username "Yourname"
-git config --global user.email "examplee@email.com"
+git config --global user.email "example@email.com"
 git config --list
 ```
 
