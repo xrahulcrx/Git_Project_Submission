@@ -2,9 +2,10 @@
 
 add() {
  echo "Enter two numbers:"
- echo "Addition function - Developer1 Version "
- read n1 n2
- echo "Result: $((n1+n2))"
+
+ echo "Addition function - Developer2 Version "
+ read num1 num2
+ echo "Result: $((num1+num2))"
 }
 
 subtract() {
