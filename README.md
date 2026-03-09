@@ -110,6 +110,11 @@ git remote add origin https://github.com/xrahulcrx/Git_Project_Submission
 git remote -v
 ```
 
+```
+origin  https://github.com/xrahulcrx/Git_Project_Submission (fetch)
+origin  https://github.com/xrahulcrx/Git_Project_Submission (push)
+```
+
 Push main branch:
 
 ```bash
