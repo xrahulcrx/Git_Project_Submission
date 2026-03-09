@@ -1,4 +1,4 @@
-# Git Local Repository Project – Calculator (Branching & Merge Conflict)
+# Git Repository Project – Calculator (Branching & Merge Conflict)
 
 ## Project Overview
 
