@@ -18,6 +18,12 @@ A **Bash calculator script** was developed containing **five arithmetic function
 
 ---
 
+
+## Video Demo Link
+
+https://github.com/xrahulcrx/Git_Project_Submission/blob/main/demo/git_github_demo.mkv
+
+
 # Technologies Used
 
 * Git
